@@ -1,0 +1,14 @@
+{
+    "os": "Darwin",
+    "os_release": "25.6.0",
+    "os_version": "Darwin Kernel Version 25.6.0: Fri Jul 31 19:18:43 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8112",
+    "architecture": "arm64",
+    "hostname": "MacBook--IvanChe.local",
+    "user": "ivancherednichenko",
+    "python": "3.12.5",
+    "cpu": "arm",
+    "cpu_logical": 8,
+    "cpu_physical": 8,
+    "ram_info": 8.0,
+    "mac": "6e:d3:c8:8b:83:7d"
+}
